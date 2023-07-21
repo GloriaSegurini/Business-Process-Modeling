@@ -1,0 +1,182 @@
+[2023-04-05 14:04:38,200] 0  INFO GUI_LOGGER: INIT APPLICATION
+[2023-04-05 14:04:38,258] 58  INFO CORE_LOGGER: START INIT Application
+[2023-04-05 14:04:38,278] 78  INFO CONFIG_LOGGER: Setting default home directory: C:\Users\User\.WoPeD-3.8.0\nets\
+[2023-04-05 14:04:38,288] 88  INFO CONFIG_LOGGER: Loading configuration from: C:\Users\User\.WoPeD-3.8.0\WoPeDconfig.xml.
+[2023-04-05 14:04:38,481] 281  INFO CONFIG_LOGGER: Setting Locale to it_IT
+[2023-04-05 14:04:38,484] 284  INFO CONFIG_LOGGER: Setting home directory: C:\Users\User\.WoPeD-3.8.0\nets\
+[2023-04-05 14:04:38,485] 285  INFO CONFIG_LOGGER: Setting current working directory: C:\Users\User\OneDrive\Immagini\Desktop\ESAME_BPM
+[2023-04-05 14:04:38,512] 312  INFO CONFIG_LOGGER: Configuration successfully loaded.
+[2023-04-05 14:04:38,544] 344  WARN CONFIG_LOGGER: Configuration file not found: C:\Users\User\.WoPeD-3.8.0\WoPeDmetrics.xml. Using built-in settings.
+[2023-04-05 14:04:38,583] 383  INFO CONFIG_LOGGER: Configuration successfully loaded.
+[2023-04-05 14:04:38,612] 412  INFO CORE_LOGGER: Look-And-Feel set to com.sun.java.swing.plaf.windows.WindowsLookAndFeel
+[2023-04-05 14:04:41,249] 3049  INFO GUI_LOGGER: END  INIT Application
+[2023-04-05 14:04:41,642] 3442 DEBUG QUALANALYSIS_LOGGER: -> init() org.woped.qualanalysis.coverabilitygraph.gui.CoverabilityGraphFrameController
+[2023-04-05 14:04:41,652] 3452 DEBUG QUALANALYSIS_LOGGER: <- init() org.woped.qualanalysis.coverabilitygraph.gui.CoverabilityGraphFrameController
+[2023-04-05 14:04:41,697] 3497 DEBUG FILE_LOGGER: ##### START PNML Version (1.3.2) IMPORT #####
+[2023-04-05 14:04:41,930] 3730 DEBUG QUALANALYSIS_LOGGER: PT Handle Pairs calculated. (0 ms)
+[2023-04-05 14:04:41,930] 3730 DEBUG QUALANALYSIS_LOGGER: TP Handle Pairs calculated. (14 ms)
+[2023-04-05 14:04:42,176] 3976 DEBUG FILE_LOGGER:  ... Place (ID:p10) imported
+[2023-04-05 14:04:42,177] 3977 DEBUG FILE_LOGGER:  ... Place (ID:p12) imported
+[2023-04-05 14:04:42,177] 3977 DEBUG FILE_LOGGER:  ... Place (ID:p11) imported
+[2023-04-05 14:04:42,178] 3978 DEBUG FILE_LOGGER:  ... Place (ID:p14) imported
+[2023-04-05 14:04:42,178] 3978 DEBUG FILE_LOGGER:  ... Place (ID:p13) imported
+[2023-04-05 14:04:42,179] 3979 DEBUG FILE_LOGGER:  ... Place (ID:p16) imported
+[2023-04-05 14:04:42,179] 3979 DEBUG FILE_LOGGER:  ... Place (ID:p15) imported
+[2023-04-05 14:04:42,180] 3980 DEBUG FILE_LOGGER:  ... Place (ID:p18) imported
+[2023-04-05 14:04:42,181] 3981 DEBUG FILE_LOGGER:  ... Place (ID:p17) imported
+[2023-04-05 14:04:42,181] 3981 DEBUG FILE_LOGGER:  ... Place (ID:p19) imported
+[2023-04-05 14:04:42,182] 3982 DEBUG FILE_LOGGER:  ... Place (ID:p21) imported
+[2023-04-05 14:04:42,182] 3982 DEBUG FILE_LOGGER:  ... Place (ID:p20) imported
+[2023-04-05 14:04:42,182] 3982 DEBUG FILE_LOGGER:  ... Place (ID:p23) imported
+[2023-04-05 14:04:42,182] 3982 DEBUG FILE_LOGGER:  ... Place (ID:p24) imported
+[2023-04-05 14:04:42,183] 3983 DEBUG FILE_LOGGER:  ... Place (ID:p27) imported
+[2023-04-05 14:04:42,185] 3985 DEBUG FILE_LOGGER:  ... Place (ID:p26) imported
+[2023-04-05 14:04:42,185] 3985 DEBUG FILE_LOGGER:  ... Place (ID:p29) imported
+[2023-04-05 14:04:42,186] 3986 DEBUG FILE_LOGGER:  ... Place (ID:p28) imported
+[2023-04-05 14:04:42,188] 3988 DEBUG FILE_LOGGER:  ... Place (ID:p1) imported
+[2023-04-05 14:04:42,189] 3989 DEBUG FILE_LOGGER:  ... Place (ID:p2) imported
+[2023-04-05 14:04:42,191] 3991 DEBUG FILE_LOGGER:  ... Place (ID:p3) imported
+[2023-04-05 14:04:42,191] 3991 DEBUG FILE_LOGGER:  ... Place (ID:p4) imported
+[2023-04-05 14:04:42,192] 3992 DEBUG FILE_LOGGER:  ... Place (ID:p5) imported
+[2023-04-05 14:04:42,192] 3992 DEBUG FILE_LOGGER:  ... Place (ID:p6) imported
+[2023-04-05 14:04:42,193] 3993 DEBUG FILE_LOGGER:  ... Place (ID:p7) imported
+[2023-04-05 14:04:42,193] 3993 DEBUG FILE_LOGGER:  ... Place (ID:p8) imported
+[2023-04-05 14:04:42,193] 3993 DEBUG FILE_LOGGER:  ... Place (ID:p9) imported
+[2023-04-05 14:04:42,194] 3994 DEBUG FILE_LOGGER:  ... Place (ID:p30) imported
+[2023-04-05 14:04:42,194] 3994 DEBUG FILE_LOGGER:  ... Place (ID:p32) imported
+[2023-04-05 14:04:42,195] 3995 DEBUG FILE_LOGGER:  ... Place (ID:p31) imported
+[2023-04-05 14:04:42,195] 3995 DEBUG FILE_LOGGER:  ... Place (ID:p34) imported
+[2023-04-05 14:04:42,196] 3996 DEBUG FILE_LOGGER:  ... Place (ID:p33) imported
+[2023-04-05 14:04:42,196] 3996 DEBUG FILE_LOGGER:  ... Place (ID:p38) imported
+[2023-04-05 14:04:42,197] 3997 DEBUG FILE_LOGGER:  ... Place (ID:p37) imported
+[2023-04-05 14:04:42,197] 3997 DEBUG FILE_LOGGER:  ... Place (ID:p39) imported
+[2023-04-05 14:04:42,198] 3998 DEBUG FILE_LOGGER:  ... Place (ID:p41) imported
+[2023-04-05 14:04:42,198] 3998 DEBUG FILE_LOGGER:  ... Place (ID:p40) imported
+[2023-04-05 14:04:42,199] 3999 DEBUG FILE_LOGGER:  ... Place (ID:p42) imported
+[2023-04-05 14:04:42,209] 4009 DEBUG FILE_LOGGER:  ... Transition (ID:t10) imported 
+[2023-04-05 14:04:42,210] 4010 DEBUG FILE_LOGGER:  ... Transition (ID:t12) imported 
+[2023-04-05 14:04:42,210] 4010 DEBUG FILE_LOGGER:  ... Transition (ID:t11) imported 
+[2023-04-05 14:04:42,211] 4011 DEBUG FILE_LOGGER:  ... Transition (ID:t14) imported 
+[2023-04-05 14:04:42,212] 4012 DEBUG FILE_LOGGER:  ... Transition (ID:t13) imported 
+[2023-04-05 14:04:42,213] 4013 DEBUG FILE_LOGGER:  ... Transition (ID:t16) imported 
+[2023-04-05 14:04:42,213] 4013 DEBUG FILE_LOGGER:  ... Transition (ID:t18) imported 
+[2023-04-05 14:04:42,214] 4014 DEBUG FILE_LOGGER:  ... Transition (ID:t17) imported 
+[2023-04-05 14:04:42,214] 4014 DEBUG FILE_LOGGER:  ... Transition (ID:t19) imported 
+[2023-04-05 14:04:42,214] 4014 DEBUG FILE_LOGGER:  ... Transition (ID:t20) imported 
+[2023-04-05 14:04:42,215] 4015 DEBUG FILE_LOGGER:  ... Transition (ID:t25) imported 
+[2023-04-05 14:04:42,216] 4016 DEBUG FILE_LOGGER:  ... Transition (ID:t24) imported 
+[2023-04-05 14:04:42,216] 4016 DEBUG FILE_LOGGER:  ... Transition (ID:t27) imported 
+[2023-04-05 14:04:42,217] 4017 DEBUG FILE_LOGGER:  ... Transition (ID:t26) imported 
+[2023-04-05 14:04:42,217] 4017 DEBUG FILE_LOGGER:  ... Transition (ID:t29) imported 
+[2023-04-05 14:04:42,218] 4018 DEBUG FILE_LOGGER:  ... Transition (ID:t28) imported 
+[2023-04-05 14:04:42,218] 4018 DEBUG FILE_LOGGER:  ... Transition (ID:t1) imported 
+[2023-04-05 14:04:42,219] 4019 DEBUG FILE_LOGGER:  ... Transition (ID:t2) imported 
+[2023-04-05 14:04:42,219] 4019 DEBUG FILE_LOGGER:  ... Transition (ID:t3) imported 
+[2023-04-05 14:04:42,220] 4020 DEBUG FILE_LOGGER:  ... Transition (ID:t4) imported 
+[2023-04-05 14:04:42,220] 4020 DEBUG FILE_LOGGER:  ... Transition (ID:t5) imported 
+[2023-04-05 14:04:42,221] 4021 DEBUG FILE_LOGGER:  ... Transition (ID:t6) imported 
+[2023-04-05 14:04:42,222] 4022 DEBUG FILE_LOGGER:  ... Transition (ID:t7) imported 
+[2023-04-05 14:04:42,222] 4022 DEBUG FILE_LOGGER:  ... Transition (ID:t8) imported 
+[2023-04-05 14:04:42,223] 4023 DEBUG FILE_LOGGER:  ... Transition (ID:t9) imported 
+[2023-04-05 14:04:42,224] 4024 DEBUG FILE_LOGGER:  ... Transition (ID:t30) imported 
+[2023-04-05 14:04:42,225] 4025 DEBUG FILE_LOGGER:  ... Transition (ID:t32) imported 
+[2023-04-05 14:04:42,226] 4026 DEBUG FILE_LOGGER:  ... Transition (ID:t31) imported 
+[2023-04-05 14:04:42,226] 4026 DEBUG FILE_LOGGER:  ... Transition (ID:t38) imported 
+[2023-04-05 14:04:42,227] 4027 DEBUG FILE_LOGGER:  ... Transition (ID:t39) imported 
+[2023-04-05 14:04:42,227] 4027 DEBUG FILE_LOGGER:  ... Transition (ID:t41) imported 
+[2023-04-05 14:04:42,227] 4027 DEBUG FILE_LOGGER:  ... Transition (ID:t40) imported 
+[2023-04-05 14:04:42,228] 4028 DEBUG FILE_LOGGER:  ... Transition (ID:t43) imported 
+[2023-04-05 14:04:42,228] 4028 DEBUG FILE_LOGGER:  ... Transition (ID:t42) imported 
+[2023-04-05 14:04:42,245] 4045 DEBUG FILE_LOGGER:  ... Arc created: (ID:a77) p24 -> t29 
+[2023-04-05 14:04:42,246] 4046 DEBUG FILE_LOGGER:  ... Arc created: (ID:a76) t28 -> p29 
+[2023-04-05 14:04:42,246] 4046 DEBUG FILE_LOGGER:  ... Arc created: (ID:a35) p12 -> t16 
+[2023-04-05 14:04:42,247] 4047 DEBUG FILE_LOGGER:  ... Arc created: (ID:a120) t43 -> p42 
+[2023-04-05 14:04:42,247] 4047 DEBUG FILE_LOGGER:  ... Arc created: (ID:a78) t29 -> p30 
+[2023-04-05 14:04:42,248] 4048 DEBUG FILE_LOGGER:  ... Arc created: (ID:a37) t16 -> p14 
+[2023-04-05 14:04:42,249] 4049 DEBUG FILE_LOGGER:  ... Arc created: (ID:a36) p13 -> t17 
+[2023-04-05 14:04:42,249] 4049 DEBUG FILE_LOGGER:  ... Arc created: (ID:a84) t31 -> p32 
+[2023-04-05 14:04:42,249] 4049 DEBUG FILE_LOGGER:  ... Arc created: (ID:a83) p31 -> t31 
+[2023-04-05 14:04:42,250] 4050 DEBUG FILE_LOGGER:  ... Arc created: (ID:a42) p8 -> t18 
+[2023-04-05 14:04:42,250] 4050 DEBUG FILE_LOGGER:  ... Arc created: (ID:a44) p16 -> t8 
+[2023-04-05 14:04:42,250] 4050 DEBUG FILE_LOGGER:  ... Arc created: (ID:a43) t18 -> p16 
+[2023-04-05 14:04:42,251] 4051 DEBUG FILE_LOGGER:  ... Arc created: (ID:a46) p18 -> t19 
+[2023-04-05 14:04:42,251] 4051 DEBUG FILE_LOGGER:  ... Arc created: (ID:a47) t19 -> p19 
+[2023-04-05 14:04:42,251] 4051 DEBUG FILE_LOGGER:  ... Arc created: (ID:a119) t42 -> p41 
+[2023-04-05 14:04:42,253] 4053 DEBUG FILE_LOGGER:  ... Arc created: (ID:a115) p39 -> t41 
+[2023-04-05 14:04:42,254] 4054 DEBUG FILE_LOGGER:  ... Arc created: (ID:a116) t41 -> p40 
+[2023-04-05 14:04:42,254] 4054 DEBUG FILE_LOGGER:  ... Arc created: (ID:a90) t17 -> p15 
+[2023-04-05 14:04:42,255] 4055 DEBUG FILE_LOGGER:  ... Arc created: (ID:a117) p40 -> t42 
+[2023-04-05 14:04:42,255] 4055 DEBUG FILE_LOGGER:  ... Arc created: (ID:a93) t13 -> p17 
+[2023-04-05 14:04:42,256] 4056 DEBUG FILE_LOGGER:  ... Arc created: (ID:a118) p40 -> t43 
+[2023-04-05 14:04:42,256] 4056 DEBUG FILE_LOGGER:  ... Arc created: (ID:a51) t24 -> p20 
+[2023-04-05 14:04:42,257] 4057 DEBUG FILE_LOGGER:  ... Arc created: (ID:a50) p19 -> t24 
+[2023-04-05 14:04:42,258] 4058 DEBUG FILE_LOGGER:  ... Arc created: (ID:a113) p29 -> t40 
+[2023-04-05 14:04:42,258] 4058 DEBUG FILE_LOGGER:  ... Arc created: (ID:a114) t40 -> p39 
+[2023-04-05 14:04:42,259] 4059 DEBUG FILE_LOGGER:  ... Arc created: (ID:a11) t5 -> p4 
+[2023-04-05 14:04:42,259] 4059 DEBUG FILE_LOGGER:  ... Arc created: (ID:a15) t7 -> p8 
+[2023-04-05 14:04:42,260] 4060 DEBUG FILE_LOGGER:  ... Arc created: (ID:a14) p7 -> t7 
+[2023-04-05 14:04:42,260] 4060 DEBUG FILE_LOGGER:  ... Arc created: (ID:a17) t8 -> p9 
+[2023-04-05 14:04:42,261] 4061 DEBUG FILE_LOGGER:  ... Arc created: (ID:a109) t38 -> p38 
+[2023-04-05 14:04:42,261] 4061 DEBUG FILE_LOGGER:  ... Arc created: (ID:a104) p33 -> t39 
+[2023-04-05 14:04:42,262] 4062 DEBUG FILE_LOGGER:  ... Arc created: (ID:a105) t39 -> p37 
+[2023-04-05 14:04:42,262] 4062 DEBUG FILE_LOGGER:  ... Arc created: (ID:a103) p34 -> t38 
+[2023-04-05 14:04:42,263] 4063 DEBUG FILE_LOGGER:  ... Arc created: (ID:a24) p10 -> t12 
+[2023-04-05 14:04:42,264] 4064 DEBUG FILE_LOGGER:  ... Arc created: (ID:a26) t12 -> p11 
+[2023-04-05 14:04:42,264] 4064 DEBUG FILE_LOGGER:  ... Arc created: (ID:a25) p10 -> t13 
+[2023-04-05 14:04:42,264] 4064 DEBUG FILE_LOGGER:  ... Arc created: (ID:a28) p40 -> t20 
+[2023-04-05 14:04:42,265] 4065 DEBUG FILE_LOGGER:  ... Arc created: (ID:a1) p1 -> t1 
+[2023-04-05 14:04:42,265] 4065 DEBUG FILE_LOGGER:  ... Arc created: (ID:a2) t1 -> p2 
+[2023-04-05 14:04:42,265] 4065 DEBUG FILE_LOGGER:  ... Arc created: (ID:a3) p2 -> t2 
+[2023-04-05 14:04:42,266] 4066 DEBUG FILE_LOGGER:  ... Arc created: (ID:a4) t2 -> p23 
+[2023-04-05 14:04:42,266] 4066 DEBUG FILE_LOGGER:  ... Arc created: (ID:a5) p3 -> t3 
+[2023-04-05 14:04:42,266] 4066 DEBUG FILE_LOGGER:  ... Arc created: (ID:a6) t3 -> p5 
+[2023-04-05 14:04:42,267] 4067 DEBUG FILE_LOGGER:  ... Arc created: (ID:a7) p5 -> t4 
+[2023-04-05 14:04:42,267] 4067 DEBUG FILE_LOGGER:  ... Arc created: (ID:a8) t4 -> p6 
+[2023-04-05 14:04:42,267] 4067 DEBUG FILE_LOGGER:  ... Arc created: (ID:a9) p41 -> t5 
+[2023-04-05 14:04:42,268] 4068 DEBUG FILE_LOGGER:  ... Arc created: (ID:a73) t27 -> p27 
+[2023-04-05 14:04:42,268] 4068 DEBUG FILE_LOGGER:  ... Arc created: (ID:a72) p26 -> t27 
+[2023-04-05 14:04:42,268] 4068 DEBUG FILE_LOGGER:  ... Arc created: (ID:a74) p27 -> t28 
+[2023-04-05 14:04:42,269] 4069 DEBUG FILE_LOGGER:  ... Arc created: (ID:a30) t20 -> p28 
+[2023-04-05 14:04:42,270] 4070 DEBUG FILE_LOGGER:  ... Arc created: (ID:a32) p28 -> t11 
+[2023-04-05 14:04:42,270] 4070 DEBUG FILE_LOGGER:  ... Arc created: (ID:a19) t11 -> p3 
+[2023-04-05 14:04:42,271] 4071 DEBUG FILE_LOGGER:  ... Arc created: (ID:a13) t11 -> p3 
+[2023-04-05 14:04:42,272] 4072 DEBUG FILE_LOGGER:  ... Arc created: (ID:a13) p23 -> t11 
+[2023-04-05 14:04:42,272] 4072 DEBUG FILE_LOGGER:  ... Arc created: (ID:a29) t14 -> p12 
+[2023-04-05 14:04:42,273] 4073 DEBUG FILE_LOGGER:  ... Arc created: (ID:a31) t14 -> p13 
+[2023-04-05 14:04:42,274] 4074 DEBUG FILE_LOGGER:  ... Arc created: (ID:a27) p11 -> t14 
+[2023-04-05 14:04:42,274] 4074 DEBUG FILE_LOGGER:  ... Arc created: (ID:a34) p11 -> t14 
+[2023-04-05 14:04:42,274] 4074 DEBUG FILE_LOGGER:  ... Arc created: (ID:a20) t9 -> p10 
+[2023-04-05 14:04:42,274] 4074 DEBUG FILE_LOGGER:  ... Arc created: (ID:a41) t9 -> p10 
+[2023-04-05 14:04:42,275] 4075 DEBUG FILE_LOGGER:  ... Arc created: (ID:a18) p9 -> t9 
+[2023-04-05 14:04:42,275] 4075 DEBUG FILE_LOGGER:  ... Arc created: (ID:a38) p14 -> t9 
+[2023-04-05 14:04:42,276] 4076 DEBUG FILE_LOGGER:  ... Arc created: (ID:a121) p42 -> t6 
+[2023-04-05 14:04:42,276] 4076 DEBUG FILE_LOGGER:  ... Arc created: (ID:a12) t6 -> p7 
+[2023-04-05 14:04:42,276] 4076 DEBUG FILE_LOGGER:  ... Arc created: (ID:a55) t6 -> p7 
+[2023-04-05 14:04:42,277] 4077 DEBUG FILE_LOGGER:  ... Arc created: (ID:a10) p6 -> t6 
+[2023-04-05 14:04:42,277] 4077 DEBUG FILE_LOGGER:  ... Arc created: (ID:a96) t10 -> p18 
+[2023-04-05 14:04:42,277] 4077 DEBUG FILE_LOGGER:  ... Arc created: (ID:a94) p17 -> t10 
+[2023-04-05 14:04:42,278] 4078 DEBUG FILE_LOGGER:  ... Arc created: (ID:a61) t10 -> p18 
+[2023-04-05 14:04:42,279] 4079 DEBUG FILE_LOGGER:  ... Arc created: (ID:a91) p15 -> t10 
+[2023-04-05 14:04:42,280] 4080 DEBUG FILE_LOGGER:  ... Arc created: (ID:a106) p37 -> t25 
+[2023-04-05 14:04:42,280] 4080 DEBUG FILE_LOGGER:  ... Arc created: (ID:a54) t25 -> p21 
+[2023-04-05 14:04:42,281] 4081 DEBUG FILE_LOGGER:  ... Arc created: (ID:a67) t25 -> p21 
+[2023-04-05 14:04:42,282] 4082 DEBUG FILE_LOGGER:  ... Arc created: (ID:a52) p20 -> t25 
+[2023-04-05 14:04:42,282] 4082 DEBUG FILE_LOGGER:  ... Arc created: (ID:a79) p30 -> t30 
+[2023-04-05 14:04:42,283] 4083 DEBUG FILE_LOGGER:  ... Arc created: (ID:a110) p38 -> t30 
+[2023-04-05 14:04:42,284] 4084 DEBUG FILE_LOGGER:  ... Arc created: (ID:a81) t30 -> p31 
+[2023-04-05 14:04:42,284] 4084 DEBUG FILE_LOGGER:  ... Arc created: (ID:a85) t30 -> p31 
+[2023-04-05 14:04:42,284] 4084 DEBUG FILE_LOGGER:  ... Arc created: (ID:a56) p21 -> t26 
+[2023-04-05 14:04:42,284] 4084 DEBUG FILE_LOGGER:  ... Arc created: (ID:a69) t26 -> p26 
+[2023-04-05 14:04:42,285] 4085 DEBUG FILE_LOGGER:  ... Arc created: (ID:a92) p21 -> t26 
+[2023-04-05 14:04:42,285] 4085 DEBUG FILE_LOGGER:  ... Arc created: (ID:a63) t26 -> p24 
+[2023-04-05 14:04:42,285] 4085 DEBUG FILE_LOGGER:  ... Arc created: (ID:a85) p32 -> t32 
+[2023-04-05 14:04:42,286] 4086 DEBUG FILE_LOGGER:  ... Arc created: (ID:a89) t32 -> p34 
+[2023-04-05 14:04:42,286] 4086 DEBUG FILE_LOGGER:  ... Arc created: (ID:a101) p32 -> t32 
+[2023-04-05 14:04:42,287] 4087 DEBUG FILE_LOGGER:  ... Arc created: (ID:a87) t32 -> p33 
+[2023-04-05 14:04:43,005] 4805 DEBUG EDITOR_LOGGER: Net updated. (11 ms)
+[2023-04-05 14:04:43,018] 4818 DEBUG EDITOR_LOGGER: Net updated. (11 ms)
+[2023-04-05 14:04:43,018] 4818 DEBUG FILE_LOGGER: ##### END PNML IMPORT Version (1.3.2) ##### (1321 ms)
+[2023-04-05 14:04:43,027] 4827  INFO CONFIG_LOGGER: Setting current working directory: C:\Users\User\OneDrive\Immagini\Desktop\ESAME_BPM\Modifiche
+[2023-04-05 14:04:43,028] 4828  INFO FILE_LOGGER: Petrinet loaded from file: C:\Users\User\OneDrive\Immagini\Desktop\ESAME_BPM\Modifiche\Segurini_PetriNet_School_MODIFICA.pnml
+[2023-04-05 23:21:24,632] 33406432  INFO CONFIG_LOGGER: Configuration successfully saved to: C:\Users\User\.WoPeD-3.8.0\WoPeDconfig.xml
+[2023-04-05 23:21:24,635] 33406435  INFO GUI_LOGGER: EXIT WoPeD
